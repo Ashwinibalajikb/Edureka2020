@@ -1,0 +1,7 @@
+class java
+{
+public static void main(String arga[])
+{
+System.pout.println("Hello World");
+}
+}
